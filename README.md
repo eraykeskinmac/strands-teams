@@ -4,7 +4,7 @@
 [![Python Support](https://img.shields.io/pypi/pyversions/strands-teams.svg)](https://pypi.org/project/strands-teams/)
 [![Downloads](https://static.pepy.tech/badge/strands-teams)](https://pepy.tech/project/strands-teams)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/eraykeskinmac/strands-teams?style=social)](https://github.com/eraykeskinmac/strands-teams)
+[![GitHub Stars](https://img.shields.io/github/stars/eraykeskinmac/strands-teams?style=social)](https://github.com/strands-agents/)
 
 Microsoft Teams notifications tool for [Strands Agents SDK](https://github.com/strands-agents/strands). Enables powerful adaptive card notifications and rich messaging for AI agents.
 
@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **PyPI**: [pypi.org/project/strands-teams](https://pypi.org/project/strands-teams/)
 - **GitHub**: [github.com/eraykeskinmac/strands-teams](https://github.com/eraykeskinmac/strands-teams)
-- **Strands Agents SDK**: [github.com/strands-agents/strands](https://github.com/strands-agents/strands)
+- **Strands Agents SDK**: [github.com/strands-agents/strands](https://github.com/strands-agents/)
 - **Adaptive Cards**: [adaptivecards.io](https://adaptivecards.io/)
 
 ---
