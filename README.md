@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **PyPI**: [pypi.org/project/strands-teams](https://pypi.org/project/strands-teams/)
 - **GitHub**: [github.com/eraykeskinmac/strands-teams](https://github.com/eraykeskinmac/strands-teams)
-- **Strands Agents SDK**: [github.com/strands-agents/strands](https://github.com/strands-agents/strands)
+- **Strands Agents SDK**: [github.com/strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
 - **Adaptive Cards**: [adaptivecards.io](https://adaptivecards.io/)
 
 ---
