@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "strands-teams"
+version = "0.1.0"
+description = "Microsoft Teams notifications tool for Strands Agents SDK"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Eray Keskin", email = "eraykeskinmac@gmail.com"}
+]
+keywords = ["strands", "ai", "agents", "teams", "microsoft-teams", "notifications", "adaptive-cards"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "strands-agents>=1.11.0",
+    "requests>=2.31.0",
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "flake8>=6.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/eraykeskinmac/strands-teams"
+Documentation = "https://github.com/eraykeskinmac/strands-teams"
+Repository = "https://github.com/eraykeskinmac/strands-teams"
+"Bug Reports" = "https://github.com/eraykeskinmac/strands-teams/issues"
+
+[tool.setuptools]
+packages = ["strands_teams", "strands_teams.templates"]
+
