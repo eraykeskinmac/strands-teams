@@ -2,7 +2,9 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/strands-teams.svg)](https://pypi.org/project/strands-teams/)
 [![Python Support](https://img.shields.io/pypi/pyversions/strands-teams.svg)](https://pypi.org/project/strands-teams/)
+[![Downloads](https://static.pepy.tech/badge/strands-teams)](https://pepy.tech/project/strands-teams)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/eraykeskinmac/strands-teams?style=social)](https://github.com/eraykeskinmac/strands-teams)
 
 Microsoft Teams notifications tool for [Strands Agents SDK](https://github.com/strands-agents/strands). Enables powerful adaptive card notifications and rich messaging for AI agents.
 
